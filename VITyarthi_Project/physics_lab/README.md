@@ -57,7 +57,7 @@ physics_lab/
 
 ## Sample run
 ```
-=== Physics Experiment Calculator ===
+Physics Experiment Calculator 
 
 1. Projectile motion
 2. Simple pendulum
@@ -70,7 +70,7 @@ Projectile Motion
 initial speed in m/s: 25
 launch angle in degrees (0 to 90): 45
 
---- Projectile Motion Results ---
+ Projectile Motion Results 
 Velocity in x direction                  17.6777 m/s
 Initial velocity in y direction          17.6777 m/s
 Time of flight                            3.6077 s
