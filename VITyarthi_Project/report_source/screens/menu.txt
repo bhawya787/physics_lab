@@ -1,0 +1,19 @@
+=== Physics Experiment Calculator ===
+
+1. Projectile motion
+2. Simple pendulum
+3. Radioactive decay
+4. LCR circuit
+5. Concave lens image
+6. Exit
+pick an option: 9
+please pick a number from 1 to 6
+
+1. Projectile motion
+2. Simple pendulum
+3. Radioactive decay
+4. LCR circuit
+5. Concave lens image
+6. Exit
+pick an option: 6
+bye

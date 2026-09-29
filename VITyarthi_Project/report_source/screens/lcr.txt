@@ -1,0 +1,17 @@
+Series LCR Circuit
+inductance L in henry: 0.1
+capacitance C in farad (like 0.00001): 0.00001
+resistance R in ohm: 50
+source voltage in volt: 10
+source frequency in Hz: 100
+
+--- LCR Circuit Results ---
+Inductive reactance                      62.8319 ohm
+Capacitive reactance                    159.1549 ohm
+Impedance                               108.5271 ohm
+Current                                   0.0921 A
+Phase angle                             -62.5668 degrees
+Resonant frequency                      159.1549 Hz
+Quality factor                            2.0000 
+
+the circuit is more capacitive at this frequency

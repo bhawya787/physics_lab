@@ -1,0 +1,13 @@
+Image by a Concave Lens
+enter every distance as a positive number, the program handles signs
+focal length in cm: 20
+object distance in cm: 30
+object height in cm: 4
+
+--- Concave Lens Results ---
+Image distance (v)                      -12.0000 cm
+Magnification                             0.4000 
+Image height                              1.6000 cm
+
+the image is virtual, erect and smaller than the object
+it forms on the same side of the lens as the object

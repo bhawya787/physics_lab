@@ -1,0 +1,9 @@
+Simple Pendulum
+this works best for small swing angles
+length of the string in m: -2
+value must be more than 0.0
+length of the string in m: 1.5
+
+--- Pendulum Results ---
+Time period                               2.4582 s
+Frequency                                 0.4068 Hz

@@ -1,0 +1,10 @@
+Radioactive Decay
+starting amount of nuclei (or mass): 1000
+half life (any time unit): 5
+time passed (same unit): 10
+
+--- Radioactive Decay Results ---
+Decay constant                            0.1386 per time unit
+Mean life (tau)                           7.2135 time units
+Amount remaining                        250.0000 
+Amount decayed                          750.0000 

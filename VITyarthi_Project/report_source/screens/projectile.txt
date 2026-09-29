@@ -1,0 +1,14 @@
+Projectile Motion
+initial speed in m/s: abc
+that is not a number, try again
+initial speed in m/s: 25
+launch angle in degrees (0 to 90): 100
+value must be 90 or less
+launch angle in degrees (0 to 90): 45
+
+--- Projectile Motion Results ---
+Velocity in x direction                  17.6777 m/s
+Initial velocity in y direction          17.6777 m/s
+Time of flight                            3.6077 s
+Maximum height                           15.9439 m
+Horizontal range                         63.7755 m
