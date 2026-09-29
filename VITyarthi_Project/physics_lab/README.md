@@ -45,8 +45,8 @@ physics_lab/
    On some systems the command is `python3`.
 2. Clone the repository and go inside the folder:
    ```
-   git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
-   cd YOUR-REPO-NAME
+   git clone https:https://github.com/bhawya787/physics_lab.git
+   cd physics_lab
    ```
 3. There are no packages to install and no configuration is needed.
 4. Run the program:
